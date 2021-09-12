@@ -1,1 +1,2 @@
-# C104-Class-activity
+# MeanMedianMode
+solution 104
